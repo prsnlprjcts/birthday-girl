@@ -32,3 +32,12 @@ body {
     height: 100vh;
 } */
 
+.rose {
+    height: 80px;
+}
+
+.rose-div {
+    align-items: center;
+    text-align: center;
+    margin-bottom: 30px;
+}

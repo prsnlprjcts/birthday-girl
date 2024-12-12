@@ -1,6 +1,7 @@
 import './App.css';
 import TweetCard from './components/TwitterCard';
 import BirthdayCard from './components/BirthdayCard';
+import pic from './rose.webp'
 
 
 function App() {
@@ -12,7 +13,7 @@ function App() {
         <div className="section">
           <BirthdayCard
             to="my princess, the love of my life, my reason to smile and keep trying, the best person to ever exist and single-taken wife-friend"
-            from="the biggest fan"
+            from="your biggest fan"
             message="Happy birthday, beautiful. I hope this day will be less sad for you. You should be happy and have the time of your life. Hope you let go of all of your worries and try to enjoy turning 23. I wish you happiness, love and support from everyone you know, less stressful days at work, more possibilities to relax and take care of yourself. I hope everything goes right for you and I really hope you can stop underrating yourself and realize how loved you are. Надеюсь больше не будет тупых 3600/5600 клиентов, бонусы каждый месяц, выполнение плана на работе и в жизни и lots and lots of fun. And I wish you to actually marry me asap. The “gift” I have for you is very personal to me. This is almost 7 years in one place. Not all of it but I hope you’ll believe me a little bit more when I say that I truly love you. So here it is (thanks for the title btw). Trigger warning: my heart and soul. This is in chronological order, so enjoy me embarrassing myself for years. "
           />
         </div>
@@ -23,7 +24,7 @@ function App() {
         </div>
         <div className="section">
           <TweetCard
-            text="I'm really grateful for her and she's my only reason why I'm writing this rn and not ending it all and just wait a little. Internet friendship is so hard. I've never thought that it can be this hard. Like I wanna see her and I can't. She is so fucking far away and all we can do is just text each other every day at 23:07 and that's it. I tell her everything about my life and I so appreciate her but there is a reason why I am afraid. I am so scared of losing her. And now she feels bad and I can't change it. Yes, I can text her some sweet words. But I can't hug her, I can't tell her this in person. She is the best friend I have ever wished for. I would die for her if she needs it. She really feels bad and I'm just here, hundreds miles away from her, waiting for 23:07 to text her and again listen how she feels bad and not be able to do anything. I want to end my life. But I feel like the only person who would be sad - that's her"
+            text="I'm really grateful for her and she's my only reason why I'm writing this rn and not ending it all and just wait a little. Internet friendship is so hard. I've never thought that it can be this hard. Like I wanna see her and I can't. She is so fucking far away and all we can do is just text each other every day at 23:07 and that's it. I tell her everything about my life and I so appreciate her but there is a reason why I am afraid. I am so scared of losing her. And now she feels bad and I can't change it. Yes, I can text her some sweet words. But I can't hug her, I can't tell her this in person. She is the best friend I have ever wished for. I would die for her if she needs it. She really feels bad and I'm just here, hundreds miles away from her, waiting for 23:07 to text her and again listen how she feels bad and not be able to do anything. I want to end my life, but I feel like the only person who would be sad - that's her"
             date="November 2018"
           />
           <TweetCard
@@ -53,7 +54,7 @@ function App() {
             date="27 September 2019"
           />
           <TweetCard
-            text="I can't sleep, I'm thinking about her. I can't get her off my mind. She makes me happy and idk how to explain this. All i do is think about her and that must mean something. I'm so confused when it comes to my feelings. It's either really strong friendship or i might be in love with her"
+            text="I can't sleep, I'm thinking about her. I can't get her off my mind. She makes me happy and idk how to explain this. All i do is think about her and that must mean something. I'm so confused when it comes to my feelings. It's either really strong friendship or i might be in love"
             date="3 October 2019"
           />
           <TweetCard
@@ -107,7 +108,7 @@ function App() {
           <TweetCard
             // name="M"
             // username="mocha"
-            text="I can't wait to meet you. I know I won't be saying these words I text you. And I'll be so embarrassed and quiet. But i will be with you. And there's nothing more to wish. Talk is overrated. I need a hug from the person who has been with me through all these hard and happy times. And this person is you. Hope you feel the same way. Love u."
+            text="I can't wait to meet you. I know I won't be saying these words I text you. And I'll be so embarrassed and quiet. But i will be with you. And there's nothing more to wish. I need a hug from the person who has been with me through all these hard and happy times. And this person is you. I love you."
             date="2 March 2020 at 9:31 PM"
           />
           <TweetCard
@@ -150,7 +151,7 @@ function App() {
           <TweetCard
             // name="M"
             // username="mocha"
-            text="Now it's 2020 and she's my best friend and I have everything I ever wished for. We've been through tough times, we've been through the best moments in our lives. And we went through this together, day by day, texting «how was your day?»"
+            text="Now it's 2020 and she's my best friend and I that's everything I ever wished for. We've been through tough times, we've been through the best moments in our lives. And we went through this together, day by day, texting «how was your day?»"
             date="21 August 2020 at 2:01 PM"
           />
           <TweetCard
@@ -208,8 +209,7 @@ function App() {
           <TweetCard
             // name="M"
             // username="mocha"
-            text="Sometimes i feel like i think about this too much. Like you are really my favorite person and it has been like that for YEARS. I haven't changed any opinions about you and i still feel the same."
-            // I'm a simp for you. I really hope you feel the same way, because it would be such a disappointment if you don't. But even that would not stop me. I love you too much
+            text="Sometimes i feel like i think about this too much. Like you are really my favorite person and it has been like that for YEARS. I haven't changed any opinions about you and i still feel the same. I'm a simp for you." //I really hope you feel the same way, because it would be such a disappointment if you don't. But even that would not stop me. I love you too much
             date="15 July 2021 at 10:44 PM"
           />
           {/* <TweetCard
@@ -269,17 +269,17 @@ function App() {
             date="17 May 2022 at 11:01 PM"
           />
           <TweetCard
-            text="It's crazy that l've been having feelings for someone for so long. I would do anything literally."
+            text="It's crazy that l've been having feelings for someone for so long."
             date="June 18, 2022. 2:17 AM"
           />
           <TweetCard
-            text="I'm so in love with you I wish I could tell you"
+            text="I'm so in love with you I wish I could tell you."
             date="23 August 2022 at 2:55 PM"
           />
           <TweetCard
             // name="M"
             // username="mocha"
-            text="What is happening to me. I love you so fucking much it hurts"
+            text="What is happening to me. I love you so fucking much. You're the best."
             date="25 September 2022 at 11:41 PM"
           />
           <TweetCard
@@ -350,12 +350,21 @@ function App() {
             text="I feel like I'm surrounded with people that piss me off and then there's you"
             date="21 September 2024 at 1:47 AM"
           />
-          <TweetCard
+          {/* <TweetCard
             // name="M"
             // username="mocha"
             text="Call it whatever you want. Delusion, obsession, mental illness, love. I feel this. And for the first time in my life I don't give a flying fuck why I feel this. Whatever the reason is, I feel this insane pull to you and god knows I tried to make it stop. I failed hundreds of times so l stopped denying it and just gave you my whole heart. This feels like something i should've been doing since 2018. Maybe I did..."
             date="13 October 2024 at 5:17 PM"
+          /> */}
+          <TweetCard
+            // name="M"
+            // username="mocha"
+            text="You’ve changed my life for the better from the moment I met you. I had you and every problem I had wasn’t that serious when at the end of the day I could talk to you and kind of dissociate. You opened a whole new horizon for me. I could feel something for the first time. I’ve always been emotionless around people and I rarely felt happiness. But with you I had this constant feeling of belonging. I knew it was meant to be. I am very grateful for you coming into my life. I don’t know if it was some coincidence or god’s will or anything else, all I know is without you I wouldn’t be where I am today. I’m working on myself and you are a big part of this. I try my best because I know I can’t lose you and I was damn close to that. There are many moments I’m not proud of but during those bad months I still felt this crazy connection to you so I didn’t give up. I wanted to be a better friend for you. Or wife. Or anything really. You intrigue me. You’re just great, really. I love the way you think and how you put thoughts into words no one could. I’m in awe every time you say something. And you’re so fucking beautiful, I wish you could see yourself from my point of view. You would fall in love too. Thank you for everything, and sorry if this is too much. I really can’t be less intense when it comes to you. I want you to feel the appreciation I have for you. I want you to know how precious you are to me. Life’s too short and never guaranteed so here it is. Can I call it a love letter? Look at me, all down bad for someone, who would’ve thought?... (I knew from the start)"
+            date="8 October 2024 at 11:10 PM"
           />
+        </div>
+        <div className='rose-div'>
+          <img src={pic} alt='rose' className='rose'></img>
         </div>
       </div>
     </div>

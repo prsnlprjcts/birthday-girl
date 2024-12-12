@@ -54,7 +54,7 @@ function App() {
             date="27 September 2019"
           />
           <TweetCard
-            text="I can't sleep, I'm thinking about her. I can't get her off my mind. She makes me happy and idk how to explain this. All i do is think about her and that must mean something. I'm so confused when it comes to my feelings. It's either really strong friendship or i might be in love"
+            text="I can't sleep, I'm thinking about her. I can't get her off my mind. She makes me happy and idk how to explain this. All i do is think about her and that must mean something. I'm so confused when it comes to my feelings. It's either really strong friendship or..."
             date="3 October 2019"
           />
           <TweetCard
@@ -78,7 +78,6 @@ function App() {
                 Idk <br />
                 Maybe i just don't know the difference between friendship and love <br />
                 I just feel something <br />
-                Why do i keep falling for straight girls pls i need to get my brain checked <br />
               </>
             }
           />

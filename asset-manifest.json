@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/birthday-girl/static/css/main.a1f67234.css",
-    "main.js": "/birthday-girl/static/js/main.fbd8d25a.js",
+    "main.css": "/birthday-girl/static/css/main.49176064.css",
+    "main.js": "/birthday-girl/static/js/main.4d754bbe.js",
+    "static/media/rose.webp": "/birthday-girl/static/media/rose.78737f351afd777bf226.webp",
     "index.html": "/birthday-girl/index.html",
-    "main.a1f67234.css.map": "/birthday-girl/static/css/main.a1f67234.css.map",
-    "main.fbd8d25a.js.map": "/birthday-girl/static/js/main.fbd8d25a.js.map"
+    "main.49176064.css.map": "/birthday-girl/static/css/main.49176064.css.map",
+    "main.4d754bbe.js.map": "/birthday-girl/static/js/main.4d754bbe.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1f67234.css",
-    "static/js/main.fbd8d25a.js"
+    "static/css/main.49176064.css",
+    "static/js/main.4d754bbe.js"
   ]
 }

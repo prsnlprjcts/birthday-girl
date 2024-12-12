@@ -10,7 +10,7 @@ const BirthdayCard = ({ to, from, message }) => {
                 <h1>Happy Birthday!</h1>
             </div>
             <div className="card-content">
-                <p className="card-to"><strong>To:</strong> {to} 🩷</p>
+                <p className="card-to"><strong>To:</strong> {to} 🫶🏼</p>
                 <p className="card-message">{message}</p>
                 <p className="card-from"><strong>From:</strong> {from}</p>
                 <div className='arrow-div'>

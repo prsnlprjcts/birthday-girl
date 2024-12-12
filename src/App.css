@@ -20,12 +20,6 @@ body {
     align-items: center;
 }
 
-.container {
-    scroll-snap-type: y mandatory;
-    overflow-y: scroll;
-    height: 100vh;
-    /* Full height viewport */
-}
 
 /* .section {
     scroll-snap-align: start;

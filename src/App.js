@@ -151,7 +151,7 @@ function App() {
           <TweetCard
             // name="M"
             // username="mocha"
-            text="Now it's 2020 and she's my best friend and I that's everything I ever wished for. We've been through tough times, we've been through the best moments in our lives. And we went through this together, day by day, texting «how was your day?»"
+            text="Now it's 2020 and she's my best friend and that's everything I ever wished for. We've been through tough times, we've been through the best moments in our lives. And we went through this together, day by day, texting «how was your day?»"
             date="21 August 2020 at 2:01 PM"
           />
           <TweetCard
